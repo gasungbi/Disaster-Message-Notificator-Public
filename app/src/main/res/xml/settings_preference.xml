@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:title="수신">
+
+        <!-- android:defaultValue="" 를 통해 기본값을 결정할 수 있음. -->
+        <ListPreference
+            android:defaultValue="300"
+            android:entries="@array/array_msg_number"
+            android:entryValues="@array/array_msg_number"
+            android:key="msg_number_list"
+            android:summary="300"
+            android:title="문자 수신량"
+            />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="앱 정보">
+
+        <PreferenceScreen
+            android:key="show_lisence"
+            android:title="라이선스">
+
+            <intent
+                android:targetPackage="com.example.disaster_message_notificator"
+                android:targetClass="com.example.disaster_message_notificator.LisenceActivity"/>
+
+        </PreferenceScreen>
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

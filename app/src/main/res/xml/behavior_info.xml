@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<behavior_info>
+    <!-- 코로나19 -->
+    <row>
+        <disaster_keyword>코로나</disaster_keyword>
+        <behavior_example_link>[코로나19 행동요령] t.ly/lK3G</behavior_example_link>
+    </row>
+    <row>
+        <disaster_keyword>역학조사</disaster_keyword>
+        <behavior_example_link>[코로나19 행동요령] t.ly/lK3G</behavior_example_link>
+    </row>
+    <row>
+        <disaster_keyword>확진자</disaster_keyword>
+        <behavior_example_link>[코로나19 행동요령] t.ly/lK3G</behavior_example_link>
+    </row>
+
+    <row>
+        <disaster_keyword>거리두기</disaster_keyword>
+        <behavior_example_link>[코로나19 행동요령] t.ly/lK3G</behavior_example_link>
+    </row>
+    <!-- 감염병 -->
+    <row>
+        <disaster_keyword>감염</disaster_keyword>
+        <behavior_example_link>[감염병 행동요령] t.ly/8Mht</behavior_example_link>
+    </row>
+    <row>
+        <disaster_keyword>역학조사</disaster_keyword>
+        <behavior_example_link>[감염병 행동요령] t.ly/8Mht</behavior_example_link>
+    </row>
+    <row>
+        <disaster_keyword>확진자</disaster_keyword>
+        <behavior_example_link>[감염병 행동요령] t.ly/8Mht</behavior_example_link>
+    </row>
+    <row>
+        <disaster_keyword>마스크</disaster_keyword>
+        <behavior_example_link>[감염병 행동요령] t.ly/8Mht</behavior_example_link>
+    </row>
+    <row>
+        <disaster_keyword>방역</disaster_keyword>
+        <behavior_example_link>[감염병 행동요령] t.ly/8Mht</behavior_example_link>
+    </row>
+    <row>
+        <disaster_keyword>유행</disaster_keyword>
+        <behavior_example_link>[감염병 행동요령] t.ly/8Mht</behavior_example_link>
+    </row>
+    <row>
+        <disaster_keyword>접종</disaster_keyword>
+        <behavior_example_link>[감염병 행동요령] t.ly/8Mht</behavior_example_link>
+    </row>
+    <!-- 태풍 -->
+    <row>
+        <disaster_keyword>태풍</disaster_keyword>
+        <behavior_example_link>[태풍 행동요령] t.ly/DZPr</behavior_example_link>
+    </row>
+    <!-- 호우 -->
+    <row>
+        <disaster_keyword>호우</disaster_keyword>
+        <behavior_example_link>[호우 행동요령] t.ly/aozg</behavior_example_link>
+    </row>
+    <!-- 낙뢰 -->
+    <row>
+        <disaster_keyword>낙뢰</disaster_keyword>
+        <behavior_example_link>[낙뢰 행동요령] t.ly/cfZw</behavior_example_link>
+    </row>
+    <!-- 강풍 -->
+    <row>
+        <disaster_keyword>강풍</disaster_keyword>
+        <behavior_example_link>[강풍 행동요령] t.ly/vpBB</behavior_example_link>
+    </row>
+    <!-- 풍랑 -->
+    <row>
+        <disaster_keyword>풍랑</disaster_keyword>
+        <behavior_example_link>[풍랑 행동요령] t.ly/8TfD</behavior_example_link>
+    </row>
+    <!-- 대설 -->
+    <row>
+        <disaster_keyword>대설</disaster_keyword>
+        <behavior_example_link>[대설 행동요령] t.ly/183z</behavior_example_link>
+    </row>
+    <!-- 한파 -->
+    <row>
+        <disaster_keyword>한파</disaster_keyword>
+        <behavior_example_link>[한파 행동요령] t.ly/hSSa</behavior_example_link>
+    </row>
+    <!-- 폭염 -->
+    <row>
+        <disaster_keyword>폭염</disaster_keyword>
+        <behavior_example_link>[폭염 행동요령] t.ly/EV0Q</behavior_example_link>
+    </row>
+    <!-- 황사 -->
+    <row>
+        <disaster_keyword>황사</disaster_keyword>
+        <behavior_example_link>[황사 행동요령] t.ly/7hMf</behavior_example_link>
+    </row>
+    <!-- 지진 -->
+    <row>
+        <disaster_keyword>지진</disaster_keyword>
+        <behavior_example_link>[지진 행동요령] t.ly/ujvY</behavior_example_link>
+    </row>
+    <!-- 해일 -->
+    <row>
+        <disaster_keyword>해일</disaster_keyword>
+        <behavior_example_link>[해일 행동요령] t.ly/CaCV</behavior_example_link>
+    </row>
+    <!-- 지진해일 -->
+    <row>
+        <disaster_keyword>지진해일</disaster_keyword>
+        <behavior_example_link>[지진해일 행동요령] t.ly/9MKR</behavior_example_link>
+    </row>
+    <!-- 화산폭발 -->
+    <row>
+        <disaster_keyword>화산폭발</disaster_keyword>
+        <behavior_example_link>[화산폭발 행동요령] t.ly/TKNG</behavior_example_link>
+    </row>
+    <!-- 가뭄 -->
+    <row>
+        <disaster_keyword>가뭄</disaster_keyword>
+        <behavior_example_link>[가뭄 행동요령] t.ly/dxJq</behavior_example_link>
+    </row>
+    <!-- 홍수 -->
+    <row>
+        <disaster_keyword>홍수</disaster_keyword>
+        <behavior_example_link>[홍수 행동요령] t.ly/IAQu</behavior_example_link>
+    </row>
+    <!-- 해수면상승 -->
+    <row>
+        <disaster_keyword>해수면상승</disaster_keyword>
+        <behavior_example_link>[해수면상승 행동요령] t.ly/vIiQ</behavior_example_link>
+    </row>
+    <!-- 산사태 -->
+    <row>
+        <disaster_keyword>산사태</disaster_keyword>
+        <behavior_example_link>[산사태 행동요령] t.ly/YQRA</behavior_example_link>
+    </row>
+    <!-- 침수 -->
+    <row>
+        <disaster_keyword>침수</disaster_keyword>
+        <behavior_example_link>[침수 행동요령] t.ly/1eXs</behavior_example_link>
+    </row>
+    <!-- 화재 -->
+    <row>
+        <disaster_keyword>화재</disaster_keyword>
+        <behavior_example_link>[화재 행동요령] t.ly/rXIk</behavior_example_link>
+    </row>
+    <!-- 산불 -->
+    <row>
+        <disaster_keyword>산불</disaster_keyword>
+        <behavior_example_link>[산불 행동요령] t.ly/fpC6</behavior_example_link>
+    </row>
+    <!-- 건축물붕괴 -->
+    <row>
+        <disaster_keyword>건축물붕괴</disaster_keyword>
+        <behavior_example_link>[건축물붕괴 행동요령] t.ly/gFnI</behavior_example_link>
+    </row>
+    <!-- 폭발 -->
+    <row>
+        <disaster_keyword>폭발</disaster_keyword>
+        <behavior_example_link>[폭발 행동요령] t.ly/1v3e</behavior_example_link>
+    </row>
+    <!-- 교통사고 -->
+    <row>
+        <disaster_keyword>교통사고</disaster_keyword>
+        <behavior_example_link>[교통사고 행동요령] t.ly/Q39f</behavior_example_link>
+    </row>
+    <!-- 전기·가스사고 -->
+    <row>
+        <disaster_keyword>전기·가스사고</disaster_keyword>
+        <behavior_example_link>[전기·가스사고 행동요령] t.ly/ffxZ</behavior_example_link>
+    </row>
+    <!-- 철도,지하철,유·도선사고 -->
+    <row>
+        <disaster_keyword>철도,지하철,유·도선사고</disaster_keyword>
+        <behavior_example_link>[철도,지하철,유·도선사고 행동요령] t.ly/u9XO</behavior_example_link>
+    </row>
+    <!-- 수난사고 -->
+    <row>
+        <disaster_keyword>수난사고</disaster_keyword>
+        <behavior_example_link>[수난사고 행동요령] t.ly/7vFH</behavior_example_link>
+    </row>
+    <!-- 식용수 -->
+    <row>
+        <disaster_keyword>식용수</disaster_keyword>
+        <behavior_example_link>[식용수 행동요령] t.ly/hx6l</behavior_example_link>
+    </row>
+    <!-- 원전사고 -->
+    <row>
+        <disaster_keyword>원전사고</disaster_keyword>
+        <behavior_example_link>[원전사고 행동요령] t.ly/YYvo</behavior_example_link>
+    </row>
+    <!-- 공동구재난 -->
+    <row>
+        <disaster_keyword>공동구재난</disaster_keyword>
+        <behavior_example_link>[공동구재난 행동요령] t.ly/M7JE</behavior_example_link>
+    </row>
+    <!-- 대규모수질오염 -->
+    <row>
+        <disaster_keyword>대규모수질오염</disaster_keyword>
+        <behavior_example_link>[대규모수질오염 행동요령] t.ly/aFcO</behavior_example_link>
+    </row>
+    <!-- 가축질병 -->
+    <row>
+        <disaster_keyword>가축질병</disaster_keyword>
+        <behavior_example_link>[가축질병 행동요령] t.ly/ZY0F</behavior_example_link>
+    </row>
+    <!-- 댐붕괴 -->
+    <row>
+        <disaster_keyword>댐붕괴</disaster_keyword>
+        <behavior_example_link>[댐붕괴 행동요령] t.ly/fEpa</behavior_example_link>
+    </row>
+    <!-- 정전 및 전력부족 -->
+    <row>
+        <disaster_keyword>정전 및 전력부족</disaster_keyword>
+        <behavior_example_link>[정전 및 전력부족 행동요령] t.ly/yb4F</behavior_example_link>
+    </row>
+    <!-- 금융전산 -->
+    <row>
+        <disaster_keyword>금융전산</disaster_keyword>
+        <behavior_example_link>[금융전산 행동요령] t.ly/ijTO</behavior_example_link>
+    </row>
+    <!-- 해양오염사고 -->
+    <row>
+        <disaster_keyword>해양오염사고</disaster_keyword>
+        <behavior_example_link>[해양오염사고 행동요령] t.ly/SyjX</behavior_example_link>
+    </row>
+    <!-- 화학물질사고 -->
+    <row>
+        <disaster_keyword>화학물질사고</disaster_keyword>
+        <behavior_example_link>[화학물질사고 행동요령] t.ly/quG7</behavior_example_link>
+    </row>
+    <!-- 항공기사고 -->
+    <row>
+        <disaster_keyword>항공기사고</disaster_keyword>
+        <behavior_example_link>[항공기사고 행동요령] t.ly/J2h8</behavior_example_link>
+    </row>
+    <!-- 화생방사고 -->
+    <row>
+        <disaster_keyword>화생방사고</disaster_keyword>
+        <behavior_example_link>[화생방사고 행동요령] t.ly/OtYP</behavior_example_link>
+    </row>
+    <!-- 인공우주물체추락 -->
+    <row>
+        <disaster_keyword>인공우주물체추락</disaster_keyword>
+        <behavior_example_link>[인공우주물체추락 행동요령] t.ly/K4F5</behavior_example_link>
+    </row>
+    <!-- 미세먼지 -->
+    <row>
+        <disaster_keyword>미세먼지</disaster_keyword>
+        <behavior_example_link>[미세먼지 행동요령] t.ly/C6Cf</behavior_example_link>
+    </row>
+</behavior_info>

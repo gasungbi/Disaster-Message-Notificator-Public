@@ -1,0 +1,1256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<local_info>
+    <row>
+        <local_name>전국</local_name>
+        <latitude>35.90</latitude>
+        <longitude>127.76</longitude>
+    </row>
+    <!-- 특별시, 광역시, 도-->
+    <row>
+        <local_name>서울특별시</local_name>
+        <latitude>37.56</latitude>
+        <longitude>126.97</longitude>
+    </row>
+    <row>
+        <local_name>부산광역시</local_name>
+        <latitude>35.17</latitude>
+        <longitude>129.07</longitude>
+    </row>
+    <row>
+        <local_name>대구광역시</local_name>
+        <latitude>35.87</latitude>
+        <longitude>128.60</longitude>
+    </row>
+    <row>
+        <local_name>인천광역시</local_name>
+        <latitude>37.45</latitude>
+        <longitude>126.70</longitude>
+    </row>
+    <row>
+        <local_name>광주광역시</local_name>
+        <latitude>35.15</latitude>
+        <longitude>126.85</longitude>
+    </row>
+    <row>
+        <local_name>대전광역시</local_name>
+        <latitude>36.35</latitude>
+        <longitude>127.38</longitude>
+    </row>
+    <row>
+        <local_name>울산광역시</local_name>
+        <latitude>35.53</latitude>
+        <longitude>129.31</longitude>
+    </row>
+    <row>
+        <local_name>세종특별자치시</local_name>
+        <latitude>36.48</latitude>
+        <longitude>127.28</longitude>
+    </row>
+    <row>
+        <local_name>경기도</local_name>
+        <latitude>37.41</latitude>
+        <longitude>127.51</longitude>
+    </row>
+    <row>
+        <local_name>강원도</local_name>
+        <latitude>37.82</latitude>
+        <longitude>128.15</longitude>
+    </row>
+    <row>
+        <local_name>충청북도</local_name>
+        <latitude>36.80</latitude>
+        <longitude>127.70</longitude>
+    </row>
+    <row>
+        <local_name>충청남도</local_name>
+        <latitude>36.51</latitude>
+        <longitude>126.80</longitude>
+    </row>
+    <row>
+        <local_name>전라북도</local_name>
+        <latitude>35.71</latitude>
+        <longitude>127.15</longitude>
+    </row>
+    <row>
+        <local_name>전라남도</local_name>
+        <latitude>34.86</latitude>
+        <longitude>126.99</longitude>
+    </row>
+    <row>
+        <local_name>경상북도</local_name>
+        <latitude>36.49</latitude>
+        <longitude>128.88</longitude>
+    </row>
+    <row>
+        <local_name>경상남도</local_name>
+        <latitude>35.46</latitude>
+        <longitude>128.21</longitude>
+    </row>
+    <row>
+        <local_name>제주특별자치도</local_name>
+        <latitude>33.48</latitude>
+        <longitude>126.49</longitude>
+    </row>
+    <!-- 서울특별시 -->
+    <row>
+        <local_name>서울특별시 강남구</local_name>
+        <latitude>37.517236</latitude>
+        <longitude>127.047325</longitude>
+    </row>
+    <row>
+        <local_name>서울특별시 강동구</local_name>
+        <latitude>37.530125</latitude>
+        <longitude>127.123762</longitude>
+    </row>
+    <row>
+        <local_name>서울특별시 강북구</local_name>
+        <latitude>37.63961</latitude>
+        <longitude>127.025658</longitude>
+    </row>
+    <row>
+        <local_name>서울특별시 강서구</local_name>
+        <latitude>37.550979</latitude>
+        <longitude>126.849538</longitude>
+    </row>
+    <row>
+        <local_name>서울특별시 관악구</local_name>
+        <latitude>37.478406</latitude>
+        <longitude>126.951613</longitude>
+    </row>
+    <row>
+        <local_name>서울특별시 광진구</local_name>
+        <latitude>37.538484</latitude>
+        <longitude>127.082294</longitude>
+    </row>
+    <row>
+        <local_name>서울특별시 구로구</local_name>
+        <latitude>37.495403</latitude>
+        <longitude>126.887369</longitude>
+    </row>
+    <row>
+        <local_name>서울특별시 금천구</local_name>
+        <latitude>37.451853</latitude>
+        <longitude>126.902036</longitude>
+    </row>
+    <row>
+        <local_name>서울특별시 노원구</local_name>
+        <latitude>37.654192</latitude>
+        <longitude>127.056793</longitude>
+    </row>
+    <row>
+        <local_name>서울특별시 도봉구</local_name>
+        <latitude>37.668774</latitude>
+        <longitude>127.047071</longitude>
+    </row>
+    <row>
+        <local_name>서울특별시 동대문구</local_name>
+        <latitude>37.574368</latitude>
+        <longitude>127.040019</longitude>
+    </row>
+    <row>
+        <local_name>서울특별시 동작구</local_name>
+        <latitude>37.512402</latitude>
+        <longitude>126.939253</longitude>
+    </row>
+    <row>
+        <local_name>서울특별시 마포구</local_name>
+        <latitude>37.563756</latitude>
+        <longitude>126.908421</longitude>
+    </row>
+    <row>
+        <local_name>서울특별시 서대문구</local_name>
+        <latitude>37.579116</latitude>
+        <longitude>126.936779</longitude>
+    </row>
+    <row>
+        <local_name>서울특별시 서초구</local_name>
+        <latitude>37.483712</latitude>
+        <longitude>127.032411</longitude>
+    </row>
+    <row>
+        <local_name>서울특별시 성동구</local_name>
+        <latitude>37.563342</latitude>
+        <longitude>127.037103</longitude>
+    </row>
+    <row>
+        <local_name>서울특별시 성북구</local_name>
+        <latitude>37.589116</latitude>
+        <longitude>127.018215</longitude>
+    </row>
+    <row>
+        <local_name>서울특별시 송파구</local_name>
+        <latitude>37.514544</latitude>
+        <longitude>127.106597</longitude>
+    </row>
+    <row>
+        <local_name>서울특별시 양천구</local_name>
+        <latitude>37.516872</latitude>
+        <longitude>126.866399</longitude>
+    </row>
+    <row>
+        <local_name>서울특별시 영등포구</local_name>
+        <latitude>37.526372</latitude>
+        <longitude>126.896228</longitude>
+    </row>
+    <row>
+        <local_name>서울특별시 용산구</local_name>
+        <latitude>37.538427</latitude>
+        <longitude>126.965444</longitude>
+    </row>
+    <row>
+        <local_name>서울특별시 은평구</local_name>
+        <latitude>37.602696</latitude>
+        <longitude>126.929112</longitude>
+    </row>
+    <row>
+        <local_name>서울특별시 종로구</local_name>
+        <latitude>37.57295</latitude>
+        <longitude>126.979358</longitude>
+    </row>
+    <row>
+        <local_name>서울특별시 중구</local_name>
+        <latitude>37.564091</latitude>
+        <longitude>126.99794</longitude>
+    </row>
+    <row>
+        <local_name>서울특별시 중랑구</local_name>
+        <latitude>37.60656</latitude>
+        <longitude>127.092652</longitude>
+    </row>
+    <!-- 부산광역시 -->
+    <row>
+        <local_name>부산광역시 강서구</local_name>
+        <latitude>35.212216</latitude>
+        <longitude>128.980567</longitude>
+    </row>
+    <row>
+        <local_name>부산광역시 금정구</local_name>
+        <latitude>35.242992</latitude>
+        <longitude>129.092277</longitude>
+    </row>
+    <row>
+        <local_name>부산광역시 기장군</local_name>
+        <latitude>35.244549</latitude>
+        <longitude>129.222154</longitude>
+    </row>
+    <row>
+        <local_name>부산광역시 남구</local_name>
+        <latitude>35.13656</latitude>
+        <longitude>129.084364</longitude>
+    </row>
+    <row>
+        <local_name>부산광역시 동구</local_name>
+        <latitude>35.139059</latitude>
+        <longitude>129.056923</longitude>
+    </row>
+    <row>
+        <local_name>부산광역시 동래구</local_name>
+        <latitude>35.204858</latitude>
+        <longitude>129.08364</longitude>
+    </row>
+    <row>
+        <local_name>부산광역시 부산진구</local_name>
+        <latitude>35.163001</latitude>
+        <longitude>129.053172</longitude>
+    </row>
+    <row>
+        <local_name>부산광역시 북구</local_name>
+        <latitude>35.197135</latitude>
+        <longitude>128.990371</longitude>
+    </row>
+    <row>
+        <local_name>부산광역시 사상구</local_name>
+        <latitude>35.15264</latitude>
+        <longitude>128.990817</longitude>
+    </row>
+    <row>
+        <local_name>부산광역시 사하구</local_name>
+        <latitude>35.104422</latitude>
+        <longitude>128.974708</longitude>
+    </row>
+    <row>
+        <local_name>부산광역시 서구</local_name>
+        <latitude>35.09773</latitude>
+        <longitude>129.024121</longitude>
+    </row>
+    <row>
+        <local_name>부산광역시 수영구</local_name>
+        <latitude>35.145615</latitude>
+        <longitude>129.113083</longitude>
+    </row>
+    <row>
+        <local_name>부산광역시 연제구</local_name>
+        <latitude>35.176194</latitude>
+        <longitude>129.079724</longitude>
+    </row>
+    <row>
+        <local_name>부산광역시 영도구</local_name>
+        <latitude>35.091232</latitude>
+        <longitude>129.068145</longitude>
+    </row>
+    <row>
+        <local_name>부산광역시 중구</local_name>
+        <latitude>35.106146</latitude>
+        <longitude>129.032342</longitude>
+    </row>
+    <row>
+        <local_name>부산광역시 해운대구</local_name>
+        <latitude>35.163114</latitude>
+        <longitude>129.163551</longitude>
+    </row>
+    <!-- 대구광역시 -->
+    <row>
+        <local_name>대구광역시 남구</local_name>
+        <latitude>35.846022</latitude>
+        <longitude>128.597529</longitude>
+    </row>
+    <row>
+        <local_name>대구광역시 달서구</local_name>
+        <latitude>35.829856</latitude>
+        <longitude>128.532758</longitude>
+    </row>
+    <row>
+        <local_name>대구광역시 달성군</local_name>
+        <latitude>35.774639</latitude>
+        <longitude>128.431714</longitude>
+    </row>
+    <row>
+        <local_name>대구광역시 동구</local_name>
+        <latitude>35.886601</latitude>
+        <longitude>128.635302</longitude>
+    </row>
+    <row>
+        <local_name>대구광역시 북구</local_name>
+        <latitude>35.885711</latitude>
+        <longitude>128.582807</longitude>
+    </row>
+    <row>
+        <local_name>대구광역시 서구</local_name>
+        <latitude>35.871769</latitude>
+        <longitude>128.559115</longitude>
+    </row>
+    <row>
+        <local_name>대구광역시 수성구</local_name>
+        <latitude>35.858244</latitude>
+        <longitude>128.630609</longitude>
+    </row>
+    <row>
+        <local_name>대구광역시 중구</local_name>
+        <latitude>35.869353</latitude>
+        <longitude>128.606167</longitude>
+    </row>
+    <!-- 인천광역시 -->
+    <row>
+        <local_name>인천광역시 강화군</local_name>
+        <latitude>37.746726</latitude>
+        <longitude>126.487873</longitude>
+    </row>
+    <row>
+        <local_name>인천광역시 계양구</local_name>
+        <latitude>37.53695</latitude>
+        <longitude>126.737744</longitude>
+    </row>
+    <row>
+        <local_name>인천광역시 남동구</local_name>
+        <latitude>37.446989</latitude>
+        <longitude>126.731942</longitude>
+    </row>
+    <row>
+        <local_name>인천광역시 동구</local_name>
+        <latitude>37.473818</latitude>
+        <longitude>126.643339</longitude>
+    </row>
+    <row>
+        <local_name>인천광역시 미추홀구</local_name>
+        <latitude>37.463681</latitude>
+        <longitude>126.650477</longitude>
+    </row>
+    <row>
+        <local_name>인천광역시 부평구</local_name>
+        <latitude>37.506982</latitude>
+        <longitude>126.721774</longitude>
+    </row>
+    <row>
+        <local_name>인천광역시 서구</local_name>
+        <latitude>37.545421</latitude>
+        <longitude>126.675972</longitude>
+    </row>
+    <row>
+        <local_name>인천광역시 연수구</local_name>
+        <latitude>37.40941</latitude>
+        <longitude>126.678309</longitude>
+    </row>
+    <row>
+        <local_name>인천광역시 옹진군</local_name>
+        <latitude>37.213889</latitude>
+        <longitude>126.178333</longitude>
+    </row>
+    <row>
+        <local_name>인천광역시 중구</local_name>
+        <latitude>37.473734</latitude>
+        <longitude>126.62148</longitude>
+    </row>
+    <!-- 광주광역시 -->
+    <row>
+        <local_name>광주광역시 광산구</local_name>
+        <latitude>35.139464</latitude>
+        <longitude>126.793718</longitude>
+    </row>
+    <row>
+        <local_name>광주광역시 남구</local_name>
+        <latitude>35.122107</latitude>
+        <longitude>126.907958</longitude>
+    </row>
+    <row>
+        <local_name>광주광역시 동구</local_name>
+        <latitude>35.146104</latitude>
+        <longitude>126.923123</longitude>
+    </row>
+    <row>
+        <local_name>광주광역시 북구</local_name>
+        <latitude>35.174017</latitude>
+        <longitude>126.911984</longitude>
+    </row>
+    <row>
+        <local_name>광주광역시 서구</local_name>
+        <latitude>35.152825</latitude>
+        <longitude>126.891098</longitude>
+    </row>
+    <!-- 대전광역시 -->
+    <row>
+        <local_name>대전광역시 대덕구</local_name>
+        <latitude>36.346719</latitude>
+        <longitude>127.415572</longitude>
+    </row>
+    <row>
+        <local_name>대전광역시 동구</local_name>
+        <latitude>36.326999</latitude>
+        <longitude>127.432683</longitude>
+    </row>
+    <row>
+        <local_name>대전광역시 서구</local_name>
+        <latitude>36.354522</latitude>
+        <longitude>127.383603</longitude>
+    </row>
+    <row>
+        <local_name>대전광역시 유성구</local_name>
+        <latitude>36.362216</latitude>
+        <longitude>127.356133</longitude>
+    </row>
+    <row>
+        <local_name>대전광역시 중구</local_name>
+        <latitude>36.325305</latitude>
+        <longitude>127.421239</longitude>
+    </row>
+    <!-- 울산광역시 -->
+    <row>
+        <local_name>울산광역시 남구</local_name>
+        <latitude>35.543683</latitude>
+        <longitude>129.329802</longitude>
+    </row>
+    <row>
+        <local_name>울산광역시 동구</local_name>
+        <latitude>35.504856</latitude>
+        <longitude>129.416601</longitude>
+    </row>
+    <row>
+        <local_name>울산광역시 북구</local_name>
+        <latitude>35.582734</latitude>
+        <longitude>129.360909</longitude>
+    </row>
+    <row>
+        <local_name>울산광역시 울주군</local_name>
+        <latitude>35.54</latitude>
+        <longitude>129.2</longitude>
+    </row>
+    <row>
+        <local_name>울산광역시 중구</local_name>
+        <latitude>35.568791</latitude>
+        <longitude>129.332135</longitude>
+    </row>
+    <!-- 세종특별자치시 -->
+    <row>
+        <local_name>세종특별자치시</local_name>
+        <latitude>36.48</latitude>
+        <longitude>127.28</longitude>
+    </row>
+    <!-- 경기도 -->
+    <row>
+        <local_name>경기도 가평군</local_name>
+        <latitude>37.83154</latitude>
+        <longitude>127.509883</longitude>
+    </row>
+    <row>
+        <local_name>경기도 고양시</local_name>
+        <latitude>37.65836</latitude>
+        <longitude>126.83202</longitude>
+    </row>
+    <row>
+        <local_name>경기도 과천시</local_name>
+        <latitude>37.429246</latitude>
+        <longitude>126.987445</longitude>
+    </row>
+    <row>
+        <local_name>경기도 광명시</local_name>
+        <latitude>37.478488</latitude>
+        <longitude>126.864289</longitude>
+    </row>
+    <row>
+        <local_name>경기도 광주시</local_name>
+        <latitude>37.417141</latitude>
+        <longitude>127.256141</longitude>
+    </row>
+    <row>
+        <local_name>경기도 구리시</local_name>
+        <latitude>37.594312</latitude>
+        <longitude>127.129565</longitude>
+    </row>
+    <row>
+        <local_name>경기도 군포시</local_name>
+        <latitude>37.36167</latitude>
+        <longitude>126.935174</longitude>
+    </row>
+    <row>
+        <local_name>경기도 김포시</local_name>
+        <latitude>37.615246</latitude>
+        <longitude>126.715633</longitude>
+    </row>
+    <row>
+        <local_name>경기도 남양주시</local_name>
+        <latitude>37.636003</latitude>
+        <longitude>127.216528</longitude>
+    </row>
+    <row>
+        <local_name>경기도 동두천시</local_name>
+        <latitude>37.903411</latitude>
+        <longitude>127.060508</longitude>
+    </row>
+    <row>
+        <local_name>경기도 부천시</local_name>
+        <latitude>37.503414</latitude>
+        <longitude>126.766031</longitude>
+    </row>
+    <row>
+        <local_name>경기도 성남시</local_name>
+        <latitude>37.444917</latitude>
+        <longitude>127.138868</longitude>
+    </row>
+    <row>
+        <local_name>경기도 수원시</local_name>
+        <latitude>37.263573</latitude>
+        <longitude>127.028601</longitude>
+    </row>
+    <row>
+        <local_name>경기도 시흥시</local_name>
+        <latitude>37.379888</latitude>
+        <longitude>126.803103</longitude>
+    </row>
+    <row>
+        <local_name>경기도 안산시</local_name>
+        <latitude>37.321878</latitude>
+        <longitude>126.830885</longitude>
+    </row>
+    <row>
+        <local_name>경기도 안성시</local_name>
+        <latitude>37.00797</latitude>
+        <longitude>127.279679</longitude>
+    </row>
+    <row>
+        <local_name>경기도 안양시</local_name>
+        <latitude>37.394253</latitude>
+        <longitude>126.956821</longitude>
+    </row>
+    <row>
+        <local_name>경기도 양주시</local_name>
+        <latitude>37.785288</latitude>
+        <longitude>127.045845</longitude>
+    </row>
+    <row>
+        <local_name>경기도 양평군</local_name>
+        <latitude>37.49122</latitude>
+        <longitude>127.487561</longitude>
+    </row>
+    <row>
+        <local_name>경기도 여주시</local_name>
+        <latitude>37.298024</latitude>
+        <longitude>127.637163</longitude>
+    </row>
+    <row>
+        <local_name>경기도 연천군</local_name>
+        <latitude>38.096444</latitude>
+        <longitude>127.074834</longitude>
+    </row>
+    <row>
+        <local_name>경기도 오산시</local_name>
+        <latitude>37.14981</latitude>
+        <longitude>127.077221</longitude>
+    </row>
+    <row>
+        <local_name>경기도 용인시</local_name>
+        <latitude>37.241086</latitude>
+        <longitude>127.177554</longitude>
+    </row>
+    <row>
+        <local_name>경기도 의왕시</local_name>
+        <latitude>37.344701</latitude>
+        <longitude>126.96831</longitude>
+    </row>
+    <row>
+        <local_name>경기도 의정부시</local_name>
+        <latitude>37.738098</latitude>
+        <longitude>127.033682</longitude>
+    </row>
+    <row>
+        <local_name>경기도 이천시</local_name>
+        <latitude>37.271995</latitude>
+        <longitude>127.434822</longitude>
+    </row>
+    <row>
+        <local_name>경기도 파주시</local_name>
+        <latitude>37.759869</latitude>
+        <longitude>126.780178</longitude>
+    </row>
+    <row>
+        <local_name>경기도 평택시</local_name>
+        <latitude>36.992108</latitude>
+        <longitude>127.112945</longitude>
+    </row>
+    <row>
+        <local_name>경기도 포천시</local_name>
+        <latitude>37.894915</latitude>
+        <longitude>127.200355</longitude>
+    </row>
+    <row>
+        <local_name>경기도 하남시</local_name>
+        <latitude>37.539265</latitude>
+        <longitude>127.214892</longitude>
+    </row>
+    <row>
+        <local_name>경기도 화성시</local_name>
+        <latitude>37.199493</latitude>
+        <longitude>126.831189</longitude>
+    </row>
+    <!-- 강원도 -->
+    <row>
+        <local_name>강원도 강릉시</local_name>
+        <latitude>37.751853</latitude>
+        <longitude>128.876057</longitude>
+    </row>
+    <row>
+        <local_name>강원도 고성군</local_name>
+        <latitude>38.380129</latitude>
+        <longitude>128.467438</longitude>
+    </row>
+    <row>
+        <local_name>강원도 동해시</local_name>
+        <latitude>37.524719</latitude>
+        <longitude>129.114292</longitude>
+    </row>
+    <row>
+        <local_name>강원도 삼척시</local_name>
+        <latitude>37.449868</latitude>
+        <longitude>129.165206</longitude>
+    </row>
+    <row>
+        <local_name>강원도 속초시</local_name>
+        <latitude>38.207015</latitude>
+        <longitude>128.591849</longitude>
+    </row>
+    <row>
+        <local_name>강원도 양구군</local_name>
+        <latitude>38.11007</latitude>
+        <longitude>127.989883</longitude>
+    </row>
+    <row>
+        <local_name>강원도 양양군</local_name>
+        <latitude>38.075393</latitude>
+        <longitude>128.61885</longitude>
+    </row>
+    <row>
+        <local_name>강원도 영월군</local_name>
+        <latitude>37.183637</latitude>
+        <longitude>128.461753</longitude>
+    </row>
+    <row>
+        <local_name>강원도 원주시</local_name>
+        <latitude>37.342219</latitude>
+        <longitude>127.920162</longitude>
+    </row>
+    <row>
+        <local_name>강원도 인제군</local_name>
+        <latitude>38.069468</latitude>
+        <longitude>128.170699</longitude>
+    </row>
+    <row>
+        <local_name>강원도 정선군</local_name>
+        <latitude>37.380755</latitude>
+        <longitude>128.660951</longitude>
+    </row>
+    <row>
+        <local_name>강원도 철원군</local_name>
+        <latitude>38.146609</latitude>
+        <longitude>127.313226</longitude>
+    </row>
+    <row>
+        <local_name>강원도 춘천시</local_name>
+        <latitude>37.881315</latitude>
+        <longitude>127.729971</longitude>
+    </row>
+    <row>
+        <local_name>강원도 태백시</local_name>
+        <latitude>37.164065</latitude>
+        <longitude>128.985565</longitude>
+    </row>
+    <row>
+        <local_name>강원도 평창군</local_name>
+        <latitude>37.370474</latitude>
+        <longitude>128.389977</longitude>
+    </row>
+    <row>
+        <local_name>강원도 홍천군</local_name>
+        <latitude>37.696952</latitude>
+        <longitude>127.888683</longitude>
+    </row>
+    <row>
+        <local_name>강원도 화천군</local_name>
+        <latitude>38.105648</latitude>
+        <longitude>127.708049</longitude>
+    </row>
+    <row>
+        <local_name>강원도 횡성군</local_name>
+        <latitude>37.491757</latitude>
+        <longitude>127.98493</longitude>
+    </row>
+    <!-- 충청북도 -->
+    <row>
+        <local_name>충청북도 괴산군</local_name>
+        <latitude>36.815669</latitude>
+        <longitude>127.786579</longitude>
+    </row>
+    <row>
+        <local_name>충청북도 단양군</local_name>
+        <latitude>36.984547</latitude>
+        <longitude>128.365519</longitude>
+    </row>
+    <row>
+        <local_name>충청북도 보은군</local_name>
+        <latitude>36.489457</latitude>
+        <longitude>127.729483</longitude>
+    </row>
+    <row>
+        <local_name>충청북도 영동군</local_name>
+        <latitude>36.175023</latitude>
+        <longitude>127.78343</longitude>
+    </row>
+    <row>
+        <local_name>충청북도 옥천군</local_name>
+        <latitude>36.306365</latitude>
+        <longitude>127.571281</longitude>
+    </row>
+    <row>
+        <local_name>충청북도 음성군</local_name>
+        <latitude>36.939679</latitude>
+        <longitude>127.690502</longitude>
+    </row>
+    <row>
+        <local_name>충청북도 제천시</local_name>
+        <latitude>37.132582</latitude>
+        <longitude>128.190948</longitude>
+    </row>
+    <row>
+        <local_name>충청북도 증평군</local_name>
+        <latitude>36.785502</latitude>
+        <longitude>127.581656</longitude>
+    </row>
+    <row>
+        <local_name>충청북도 진천군</local_name>
+        <latitude>36.85538</latitude>
+        <longitude>127.436112</longitude>
+    </row>
+    <row>
+        <local_name>충청북도 청주시</local_name>
+        <latitude>36.642434</latitude>
+        <longitude>127.489032</longitude>
+    </row>
+    <row>
+        <local_name>충청북도 충주시</local_name>
+        <latitude>36.991011</latitude>
+        <longitude>127.92595</longitude>
+    </row>
+    <!-- 충청남도 -->
+    <row>
+        <local_name>충청남도 계룡시</local_name>
+        <latitude>36.274558</latitude>
+        <longitude>127.24859</longitude>
+    </row>
+    <row>
+        <local_name>충청남도 공주시</local_name>
+        <latitude>36.446535</latitude>
+        <longitude>127.119153</longitude>
+    </row>
+    <row>
+        <local_name>충청남도 금산군</local_name>
+        <latitude>36.108693</latitude>
+        <longitude>127.488071</longitude>
+    </row>
+    <row>
+        <local_name>충청남도 논산시</local_name>
+        <latitude>36.187066</latitude>
+        <longitude>127.098745</longitude>
+    </row>
+    <row>
+        <local_name>충청남도 당진시</local_name>
+        <latitude>36.893611</latitude>
+        <longitude>126.628328</longitude>
+    </row>
+    <row>
+        <local_name>충청남도 보령시</local_name>
+        <latitude>36.333163</latitude>
+        <longitude>126.612944</longitude>
+    </row>
+    <row>
+        <local_name>충청남도 부여군</local_name>
+        <latitude>36.275441</latitude>
+        <longitude>126.910178</longitude>
+    </row>
+    <row>
+        <local_name>충청남도 서산시</local_name>
+        <latitude>36.784499</latitude>
+        <longitude>126.450317</longitude>
+    </row>
+    <row>
+        <local_name>충청남도 서천군</local_name>
+        <latitude>36.080331</latitude>
+        <longitude>126.691328</longitude>
+    </row>
+    <row>
+        <local_name>충청남도 아산시</local_name>
+        <latitude>36.789796</latitude>
+        <longitude>127.001849</longitude>
+    </row>
+    <row>
+        <local_name>충청남도 예산군</local_name>
+        <latitude>36.682612</latitude>
+        <longitude>126.848395</longitude>
+    </row>
+    <row>
+        <local_name>충청남도 천안시</local_name>
+        <latitude>36.815129</latitude>
+        <longitude>127.113894</longitude>
+    </row>
+    <row>
+        <local_name>충청남도 청양군</local_name>
+        <latitude>36.458833</latitude>
+        <longitude>126.802212</longitude>
+    </row>
+    <row>
+        <local_name>충청남도 태안군</local_name>
+        <latitude>36.745642</latitude>
+        <longitude>126.298053</longitude>
+    </row>
+    <row>
+        <local_name>충청남도 홍성군</local_name>
+        <latitude>36.60123</latitude>
+        <longitude>126.660776</longitude>
+    </row>
+    <!-- 전라북도 -->
+    <row>
+        <local_name>전라북도 고창군</local_name>
+        <latitude>35.435822</latitude>
+        <longitude>126.702081</longitude>
+    </row>
+    <row>
+        <local_name>전라북도 군산시</local_name>
+        <latitude>35.967677</latitude>
+        <longitude>126.736629</longitude>
+    </row>
+    <row>
+        <local_name>전라북도 김제시</local_name>
+        <latitude>35.803608</latitude>
+        <longitude>126.880887</longitude>
+    </row>
+    <row>
+        <local_name>전라북도 남원시</local_name>
+        <latitude>35.416357</latitude>
+        <longitude>127.390488</longitude>
+    </row>
+    <row>
+        <local_name>전라북도 무주군</local_name>
+        <latitude>36.006819</latitude>
+        <longitude>127.660781</longitude>
+    </row>
+    <row>
+        <local_name>전라북도 부안군</local_name>
+        <latitude>35.731566</latitude>
+        <longitude>126.733465</longitude>
+    </row>
+    <row>
+        <local_name>전라북도 순창군</local_name>
+        <latitude>35.374414</latitude>
+        <longitude>127.137597</longitude>
+    </row>
+    <row>
+        <local_name>전라북도 완주군</local_name>
+        <latitude>35.891275</latitude>
+        <longitude>127.253895</longitude>
+    </row>
+    <row>
+        <local_name>전라북도 익산시</local_name>
+        <latitude>35.948286</latitude>
+        <longitude>126.957599</longitude>
+    </row>
+    <row>
+        <local_name>전라북도 임실군</local_name>
+        <latitude>35.611055</latitude>
+        <longitude>127.28266</longitude>
+    </row>
+    <row>
+        <local_name>전라북도 장수군</local_name>
+        <latitude>35.647277</latitude>
+        <longitude>127.521136</longitude>
+    </row>
+    <row>
+        <local_name>전라북도 전주시</local_name>
+        <latitude>35.824224</latitude>
+        <longitude>127.147953</longitude>
+    </row>
+    <row>
+        <local_name>전라북도 정읍시</local_name>
+        <latitude>35.569886</latitude>
+        <longitude>126.855896</longitude>
+    </row>
+    <row>
+        <local_name>전라북도 진안군</local_name>
+        <latitude>35.79173</latitude>
+        <longitude>127.424836</longitude>
+    </row>
+    <!-- 전라남도 -->
+    <row>
+        <local_name>전라남도 강진군</local_name>
+        <latitude>34.642077</latitude>
+        <longitude>126.767261</longitude>
+    </row>
+    <row>
+        <local_name>전라남도 고흥군</local_name>
+        <latitude>34.611222</latitude>
+        <longitude>127.284978</longitude>
+    </row>
+    <row>
+        <local_name>전라남도 곡성군</local_name>
+        <latitude>35.281955</latitude>
+        <longitude>127.291918</longitude>
+    </row>
+    <row>
+        <local_name>전라남도 광양시</local_name>
+        <latitude>34.940697</latitude>
+        <longitude>127.695888</longitude>
+    </row>
+    <row>
+        <local_name>전라남도 구례군</local_name>
+        <latitude>335.202495</latitude>
+        <longitude>127.462653</longitude>
+    </row>
+    <row>
+        <local_name>전라남도 나주시</local_name>
+        <latitude>35.01606</latitude>
+        <longitude>126.710757</longitude>
+    </row>
+    <row>
+        <local_name>전라남도 담양군</local_name>
+        <latitude>35.321139</latitude>
+        <longitude>126.988167</longitude>
+    </row>
+    <row>
+        <local_name>전라남도 목포시</local_name>
+        <latitude>34.811835</latitude>
+        <longitude>126.392166</longitude>
+    </row>
+    <row>
+        <local_name>전라남도 무안군</local_name>
+        <latitude>34.990454</latitude>
+        <longitude>126.481686</longitude>
+    </row>
+    <row>
+        <local_name>전라남도 보성군</local_name>
+        <latitude>34.771456</latitude>
+        <longitude>127.079894</longitude>
+    </row>
+    <row>
+        <local_name>전라남도 순천시</local_name>
+        <latitude>34.950637</latitude>
+        <longitude>127.487214</longitude>
+    </row>
+    <row>
+        <local_name>전라남도 신안군</local_name>
+        <latitude>34.827332</latitude>
+        <longitude>126.101074</longitude>
+    </row>
+    <row>
+        <local_name>전라남도 여수시</local_name>
+        <latitude>34.760374</latitude>
+        <longitude>127.662222</longitude>
+    </row>
+    <row>
+        <local_name>전라남도 영광군</local_name>
+        <latitude>35.277172</latitude>
+        <longitude>126.511987</longitude>
+    </row>
+    <row>
+        <local_name>전라남도 영암군</local_name>
+        <latitude>34.800169</latitude>
+        <longitude>126.696792</longitude>
+    </row>
+    <row>
+        <local_name>전라남도 완도군</local_name>
+        <latitude>34.31106</latitude>
+        <longitude>126.755054</longitude>
+    </row>
+    <row>
+        <local_name>전라남도 장성군</local_name>
+        <latitude>35.301833</latitude>
+        <longitude>126.784854</longitude>
+    </row>
+    <row>
+        <local_name>전라남도 장흥군</local_name>
+        <latitude>34.681686</latitude>
+        <longitude>126.906928</longitude>
+    </row>
+    <row>
+        <local_name>전라남도 진도군</local_name>
+        <latitude>34.486871</latitude>
+        <longitude>126.263485</longitude>
+    </row>
+    <row>
+        <local_name>전라남도 함평군</local_name>
+        <latitude>35.06594</latitude>
+        <longitude>126.516552</longitude>
+    </row>
+    <row>
+        <local_name>전라남도 해남군</local_name>
+        <latitude>34.573252</latitude>
+        <longitude>126.598927</longitude>
+    </row>
+    <row>
+        <local_name>전라남도 화순군</local_name>
+        <latitude>35.064503</latitude>
+        <longitude>126.98648</longitude>
+    </row>
+    <!-- 경상북도 -->
+    <row>
+        <local_name>경상북도 경산시</local_name>
+        <latitude>35.825056</latitude>
+        <longitude>128.741544</longitude>
+    </row>
+    <row>
+        <local_name>경상북도 경주시</local_name>
+        <latitude>35.856172</latitude>
+        <longitude>129.224748</longitude>
+    </row>
+    <row>
+        <local_name>경상북도 고령군</local_name>
+        <latitude>35.726142</latitude>
+        <longitude>128.262953</longitude>
+    </row>
+    <row>
+        <local_name>경상북도 구미시</local_name>
+        <latitude>36.119485</latitude>
+        <longitude>128.344573</longitude>
+    </row>
+    <row>
+        <local_name>경상북도 군위군</local_name>
+        <latitude>36.242836</latitude>
+        <longitude>128.57277</longitude>
+    </row>
+    <row>
+        <local_name>경상북도 김천시</local_name>
+        <latitude>36.139839</latitude>
+        <longitude>128.113595</longitude>
+    </row>
+    <row>
+        <local_name>경상북도 문경시</local_name>
+        <latitude>36.586148</latitude>
+        <longitude>128.186797</longitude>
+    </row>
+    <row>
+        <local_name>경상북도 봉화군</local_name>
+        <latitude>36.893093</latitude>
+        <longitude>128.732375</longitude>
+    </row>
+    <row>
+        <local_name>경상북도 상주시</local_name>
+        <latitude>36.410947</latitude>
+        <longitude>128.159083</longitude>
+    </row>
+    <row>
+        <local_name>경상북도 성주군</local_name>
+        <latitude>35.919008</latitude>
+        <longitude>128.282974</longitude>
+    </row>
+    <row>
+        <local_name>경상북도 안동시</local_name>
+        <latitude>36.568354</latitude>
+        <longitude>128.729357</longitude>
+    </row>
+    <row>
+        <local_name>경상북도 영덕군</local_name>
+        <latitude>36.41508</latitude>
+        <longitude>129.365968</longitude>
+    </row>
+    <row>
+        <local_name>경상북도 영양군</local_name>
+        <latitude>36.666656</latitude>
+        <longitude>129.112401</longitude>
+    </row>
+    <row>
+        <local_name>경상북도 영주시</local_name>
+        <latitude>36.805686</latitude>
+        <longitude>128.624055</longitude>
+    </row>
+    <row>
+        <local_name>경상북도 영천시</local_name>
+        <latitude>35.973291</latitude>
+        <longitude>128.938549</longitude>
+    </row>
+    <row>
+        <local_name>경상북도 예천군</local_name>
+        <latitude>36.6577</latitude>
+        <longitude>128.452881</longitude>
+    </row>
+    <row>
+        <local_name>경상북도 울릉군</local_name>
+        <latitude>37.484417</latitude>
+        <longitude>130.9058</longitude>
+    </row>
+    <row>
+        <local_name>경상북도 울진군</local_name>
+        <latitude>36.993066</latitude>
+        <longitude>129.40042</longitude>
+    </row>
+    <row>
+        <local_name>경상북도 의성군</local_name>
+        <latitude>36.352658</latitude>
+        <longitude>128.697005</longitude>
+    </row>
+    <row>
+        <local_name>경상북도 청도군</local_name>
+        <latitude>35.647271</latitude>
+        <longitude>128.733911</longitude>
+    </row>
+    <row>
+        <local_name>경상북도 청송군</local_name>
+        <latitude>36.435905</latitude>
+        <longitude>129.057108</longitude>
+    </row>
+    <row>
+        <local_name>경상북도 칠곡군</local_name>
+        <latitude>35.995306</latitude>
+        <longitude>128.401543</longitude>
+    </row>
+    <row>
+        <local_name>경상북도 포항시</local_name>
+        <latitude>36.019018</latitude>
+        <longitude>129.343481</longitude>
+    </row>
+    <!-- 경상남도 -->
+    <row>
+        <local_name>경상남도 거제시</local_name>
+        <latitude>34.880643</latitude>
+        <longitude>128.621082</longitude>
+    </row>
+    <row>
+        <local_name>경상남도 거창군</local_name>
+        <latitude>35.686723</latitude>
+        <longitude>127.909516</longitude>
+    </row>
+    <row>
+        <local_name>경상남도 고성군</local_name>
+        <latitude>34.973149</latitude>
+        <longitude>128.322246</longitude>
+    </row>
+    <row>
+        <local_name>경상남도 김해시</local_name>
+        <latitude>35.228545</latitude>
+        <longitude>128.889352</longitude>
+    </row>
+    <row>
+        <local_name>경상남도 남해군</local_name>
+        <latitude>34.837672</latitude>
+        <longitude>127.892423</longitude>
+    </row>
+    <row>
+        <local_name>경상남도 밀양시</local_name>
+        <latitude>35.50376</latitude>
+        <longitude>128.746442</longitude>
+    </row>
+    <row>
+        <local_name>경상남도 사천시</local_name>
+        <latitude>35.003779</latitude>
+        <longitude>128.064185</longitude>
+    </row>
+    <row>
+        <local_name>경상남도 산청군</local_name>
+        <latitude>35.415589</latitude>
+        <longitude>127.873498</longitude>
+    </row>
+    <row>
+        <local_name>경상남도 양산시</local_name>
+        <latitude>35.335007</latitude>
+        <longitude>129.037169</longitude>
+    </row>
+    <row>
+        <local_name>경상남도 의령군</local_name>
+        <latitude>35.32219</latitude>
+        <longitude>128.261658</longitude>
+    </row>
+    <row>
+        <local_name>경상남도 진주시</local_name>
+        <latitude>35.179982</latitude>
+        <longitude>128.107621</longitude>
+    </row>
+    <row>
+        <local_name>경상남도 창녕군</local_name>
+        <latitude>35.544556</latitude>
+        <longitude>128.492214</longitude>
+    </row>
+    <row>
+        <local_name>경상남도 창원시</local_name>
+        <latitude>35.227987</latitude>
+        <longitude>128.681814</longitude>
+    </row>
+    <row>
+        <local_name>경상남도 통영시</local_name>
+        <latitude>34.854423</latitude>
+        <longitude>128.433182</longitude>
+    </row>
+    <row>
+        <local_name>경상남도 하동군</local_name>
+        <latitude>35.067211</latitude>
+        <longitude>127.751269</longitude>
+    </row>
+    <row>
+        <local_name>경상남도 함안군</local_name>
+        <latitude>35.272559</latitude>
+        <longitude>128.40648</longitude>
+    </row>
+    <row>
+        <local_name>경상남도 함양군</local_name>
+        <latitude>35.520461</latitude>
+        <longitude>127.725176</longitude>
+    </row>
+    <row>
+        <local_name>경상남도 합천군</local_name>
+        <latitude>35.566576</latitude>
+        <longitude>128.165799</longitude>
+    </row>
+    <!-- 제주특별자치도 -->
+    <row>
+        <local_name>제주특별자치도 제주시</local_name>
+        <latitude>33.499621</latitude>
+        <longitude>126.531188</longitude>
+    </row>
+    <row>
+        <local_name>제주특별자치도 서귀포시</local_name>
+        <latitude>33.254121</latitude>
+        <longitude>126.560076</longitude>
+    </row>
+</local_info>
